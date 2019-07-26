@@ -1,4 +1,4 @@
-#@author pms
+
 from PIL import Image
 
 def pic2ascii(pic, asciis, zoom, vscale):
